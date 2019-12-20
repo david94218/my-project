@@ -25,7 +25,7 @@ export default {
   name: "About",
   props: {
     msg: String,
-    mmm: Number
+    mmm: String
   },
   data() {
     return {
