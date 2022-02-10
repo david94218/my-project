@@ -14,7 +14,7 @@
     "canvas": "^2.6.0",
     "core-js": "^3.4.3",
     "fibers": "^4.0.2",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "register-service-worker": "^1.6.2",
     "selenium-server": "^3.141.59",
     "vue": "^2.6.10",
